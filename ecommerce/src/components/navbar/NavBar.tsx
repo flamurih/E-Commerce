@@ -22,7 +22,7 @@ export default function NavBar() {
                         </NavDropdown>
                     </Nav>
                     <Nav>
-                        <Nav.Link href="#Login" style={{ marginLeft: "20px" }}>Log In</Nav.Link>
+                        <Nav.Link href="Login" style={{ marginLeft: "20px" }}>Log In</Nav.Link>
                         <Nav.Link href="#Register" style={{ marginLeft: "20px" }}>Register</Nav.Link>
                     </Nav>
             </Container>

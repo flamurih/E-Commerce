@@ -1,17 +1,21 @@
 import React from 'react';
 import './App.css';
-import axios from 'axios';
-import NavBar from './components/navbar/NavBar';
-import Slider from './components/slider/Slider';
-import Posts from './components/posts/Posts';
+import Home from './home';
+import Login from './components/Login/Login'
+import {BrowserRouter, Routes, Route} from 'react-router-dom';
 
 
 function App() {
   return (
     <>
-      <NavBar />
-      <Slider />
-      <Posts />
+    <BrowserRouter>
+        <Routes>
+            <Route path='' element={<Home />}></Route>
+            <Route path='Login' element={<Login />}></Route>
+        </Routes>
+    </BrowserRouter>
+      
+      
     </>
   );
 }
