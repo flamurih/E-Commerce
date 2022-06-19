@@ -9,7 +9,7 @@ export default function Posts() {
             <Card.Img variant="top" src="holder.js/100px180" />
             <Card.Body>
                 <Card.Title>Card Title</Card.Title>
-                <Button variant="primary">Go somewhere</Button>
+                <Button variant="primary">Buy</Button>
             </Card.Body>
         </Card>
     </>
