@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pxcf0zMAD1ZWkgMovvt5Y23VoNBYb9cSeHYybzeRZUs=",
+  "Hash": "GBmbXWOydw/t4PWVZyvu2zU8C1mTza29zCot0OnnTLM=",
   "Source": "E-Commerce",
   "BasePath": "_content/E-Commerce",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\E-Commerce.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\css\\bootswatchTheme.css",
+      "SourceId": "E-Commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "BasePath": "_content/E-Commerce",
+      "RelativePath": "css/bootswatchTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootswatchTheme.css"
     },
     {
       "Identity": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\css\\site.css",
