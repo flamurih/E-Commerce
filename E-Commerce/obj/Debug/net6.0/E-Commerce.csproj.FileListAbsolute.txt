@@ -60,7 +60,6 @@ C:\Users\muli9\OneDrive\Desktop\E-Commerce\E-Commerce\bin\Debug\net6.0\MessagePa
 C:\Users\muli9\OneDrive\Desktop\E-Commerce\E-Commerce\bin\Debug\net6.0\MessagePack.Annotations.dll
 C:\Users\muli9\OneDrive\Desktop\E-Commerce\E-Commerce\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\muli9\OneDrive\Desktop\E-Commerce\E-Commerce\bin\Debug\net6.0\Microsoft.Build.dll
-C:\Users\muli9\OneDrive\Desktop\E-Commerce\E-Commerce\bin\Debug\net6.0\Microsoft.Build.Framework.dll
 C:\Users\muli9\OneDrive\Desktop\E-Commerce\E-Commerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
 C:\Users\muli9\OneDrive\Desktop\E-Commerce\E-Commerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
 C:\Users\muli9\OneDrive\Desktop\E-Commerce\E-Commerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -105,7 +104,6 @@ C:\Users\muli9\OneDrive\Desktop\E-Commerce\E-Commerce\bin\Debug\net6.0\System.Co
 C:\Users\muli9\OneDrive\Desktop\E-Commerce\E-Commerce\bin\Debug\net6.0\System.Composition.Hosting.dll
 C:\Users\muli9\OneDrive\Desktop\E-Commerce\E-Commerce\bin\Debug\net6.0\System.Composition.Runtime.dll
 C:\Users\muli9\OneDrive\Desktop\E-Commerce\E-Commerce\bin\Debug\net6.0\System.Composition.TypedParts.dll
-C:\Users\muli9\OneDrive\Desktop\E-Commerce\E-Commerce\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
 C:\Users\muli9\OneDrive\Desktop\E-Commerce\E-Commerce\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\muli9\OneDrive\Desktop\E-Commerce\E-Commerce\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
 C:\Users\muli9\OneDrive\Desktop\E-Commerce\E-Commerce\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -292,3 +290,10 @@ C:\Users\muli9\OneDrive\Desktop\E-Commerce\E-Commerce\bin\Debug\net6.0\E-Commerc
 C:\Users\muli9\OneDrive\Desktop\E-Commerce\E-Commerce\bin\Debug\net6.0\E-Commerce.DataAccess.pdb
 C:\Users\muli9\OneDrive\Desktop\E-Commerce\E-Commerce\bin\Debug\net6.0\E-Commerce.Models.pdb
 C:\Users\muli9\OneDrive\Desktop\E-Commerce\E-Commerce\obj\Debug\net6.0\E-Commerce.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\muli9\OneDrive\Desktop\E-Commerce\E-Commerce\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\muli9\OneDrive\Desktop\E-Commerce\E-Commerce\obj\Debug\net6.0\staticwebassets\msbuild.E-Commerce.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\muli9\OneDrive\Desktop\E-Commerce\E-Commerce\obj\Debug\net6.0\staticwebassets\msbuild.build.E-Commerce.props
+C:\Users\muli9\OneDrive\Desktop\E-Commerce\E-Commerce\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.E-Commerce.props
+C:\Users\muli9\OneDrive\Desktop\E-Commerce\E-Commerce\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.E-Commerce.props
+C:\Users\muli9\OneDrive\Desktop\E-Commerce\E-Commerce\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\muli9\OneDrive\Desktop\E-Commerce\E-Commerce\bin\Debug\net6.0\Microsoft.Build.Framework.dll
