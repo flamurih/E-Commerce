@@ -17,6 +17,26 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\images\\products\\03b10ebb-80ef-4e18-9461-ffa8b052c732.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\03b10ebb-80ef-4e18-9461-ffa8b052c732.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\images\\products\\040cfd8c-8eab-4085-b920-e5a9c3cc1843.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\040cfd8c-8eab-4085-b920-e5a9c3cc1843.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\images\\products\\bd548a56-4ead-4904-9fad-2e10eccb92d4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\bd548a56-4ead-4904-9fad-2e10eccb92d4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\images\\products\\ff00a208-4dd3-4b6a-ae16-52ce79f55706.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\ff00a208-4dd3-4b6a-ae16-52ce79f55706.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
       "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
