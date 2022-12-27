@@ -1,0 +1,42 @@
+﻿@model ShoppingCart
+
+<form method="post">
+    <div class="card container pt-5">
+        <div class="card-header bg-dark row">
+            <div class="col-12 col-md-6">
+                <h1 class="text-white fw-bold">@Model.Product.Name</h1>
+            </div>
+        </div>
+        <div class="card-body row container">
+            <div class="container rounded p-2">
+                <div class="row">
+                    <div class="col-8 col-lg-6">
+                        <div class="row p-lg-2 my-4">
+                            <h5 class="text-black">@Model.Product.Description</h5>
+                        </div>
+                        <div class="row p-lg-2 my-4">
+                            <h5 class="text-black">@Model.Product.Category.Name</h5>
+                        </div>
+                        <div class="row p-lg-2 my-4">
+                            <h5 class="text-black">&euro; @Model.Product.Price</h5>
+                        </div>
+                        <div class="row p-lg-2 my-4">
+                            <input asp-for="Count" class="form-control" name="@Model.Product.Quantity" placeholder="Quantity" />
+                        </div>
+                    </div>
+                    <div class="col-4 col-lg-6">
+                    <img width="100%" src="@Model.Product.ImageUrl" />
+                    </div>
+                </div>
+                <div class="row mt-5">
+                    <div class="col-2 col-sm-2">
+                        <a asp-action="Index" class="btn btn-success p-3">Back to list</a>
+                    </div>
+                    <div class="col-2 col-sm-2">
+                        <a class="btn btn-primary p-3"><i class="bi bi-cart-plus"></i>Add to cart</a>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+</form>

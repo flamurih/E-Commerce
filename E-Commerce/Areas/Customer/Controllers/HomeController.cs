@@ -19,8 +19,22 @@ namespace E_Commerce.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            IEnumerable<Product> productList = _unitOfWork.Product.GetAll(includeProperties: "Category");
+
+            return View(productList);
         }
+
+        public IActionResult Details(int id)
+        {
+            ShoppingCart cartObj = new()
+            {
+                Count = 1,
+                Product = _unitOfWork.Product.GetFirstOrDefault(u => u.Id == id, includeProperties: "Category")
+            };
+
+            return View(cartObj);
+        }
+
 
         public IActionResult Privacy()
         {
