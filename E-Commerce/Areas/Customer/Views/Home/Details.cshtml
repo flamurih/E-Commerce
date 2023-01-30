@@ -1,6 +1,7 @@
 ﻿@model ShoppingCart
 
 <form method="post">
+    <input hidden asp-for="ProductId" />
     <div class="card container pt-5">
         <div class="card-header bg-dark row">
             <div class="col-12 col-md-6">
@@ -21,7 +22,7 @@
                             <h5 class="text-black">&euro; @Model.Product.Price</h5>
                         </div>
                         <div class="row p-lg-2 my-4">
-                            <input asp-for="Count" class="form-control" name="@Model.Product.Quantity" placeholder="Quantity" />
+                            <div class="col-10"><input asp-for="Count" class="form-control" /></div>
                         </div>
                     </div>
                     <div class="col-4 col-lg-6">
@@ -33,7 +34,7 @@
                         <a asp-action="Index" class="btn btn-success p-3">Back to list</a>
                     </div>
                     <div class="col-2 col-sm-2">
-                        <a class="btn btn-primary p-3"><i class="bi bi-cart-plus"></i>Add to cart</a>
+                        <button type="submit" value="Add to Cart"class="btn btn-primary p-3">Add to Cart</button>
                     </div>
                 </div>
                 
