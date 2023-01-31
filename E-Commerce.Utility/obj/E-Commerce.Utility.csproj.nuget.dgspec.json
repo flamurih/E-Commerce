@@ -4,14 +4,14 @@
     "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce.Utility\\E-Commerce.Utility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce.Utility\\E-Commerce.Utility.csproj": {
+    "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce.Models\\E-Commerce.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce.Utility\\E-Commerce.Utility.csproj",
-        "projectName": "E-Commerce.Utility",
-        "projectPath": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce.Utility\\E-Commerce.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce.Models\\E-Commerce.Models.csproj",
+        "projectName": "E-Commerce.Models",
+        "projectPath": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce.Models\\E-Commerce.Models.csproj",
         "packagesPath": "C:\\Users\\muli9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce.Utility\\obj\\",
+        "outputPath": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\muli9\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,25 +40,118 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Identity.UI": {
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
               "target": "Package",
-              "version": "[6.0.12, )"
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.2, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.1, )"
             },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.0, )"
-            },
-            "MySql.EntityFrameworkCore": {
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce.Utility\\E-Commerce.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce.Utility\\E-Commerce.Utility.csproj",
+        "projectName": "E-Commerce.Utility",
+        "projectPath": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce.Utility\\E-Commerce.Utility.csproj",
+        "packagesPath": "C:\\Users\\muli9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\muli9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce.Models\\E-Commerce.Models.csproj": {
+                "projectPath": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce.Models\\E-Commerce.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[6.0.12, )"
             },
-            "Npgsql": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             }
           },
           "imports": [

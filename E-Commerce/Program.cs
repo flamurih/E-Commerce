@@ -6,6 +6,8 @@ using Microsoft.AspNetCore.Identity;
 using E_Commerce.DataAccess;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using E_Commerce.Utility;
+using E_Commerce.Models;
+using Microsoft.Data.Sqlite;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,9 +15,14 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 
+
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
+
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(
-        builder.Configuration.GetConnectionString("DefaultConnection")
-    ));
+    connectionString
+	));
+
 
 builder.Services.AddIdentity<IdentityUser, IdentityRole>()
     .AddDefaultTokenProviders()

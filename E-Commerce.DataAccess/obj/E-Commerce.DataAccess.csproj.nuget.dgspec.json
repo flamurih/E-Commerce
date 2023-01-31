@@ -50,9 +50,9 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.1, )"
+              "version": "[7.0.2, )"
             },
-            "Microsoft.EntityFrameworkCore.Relational": {
+            "Microsoft.EntityFrameworkCore.Cosmos": {
               "target": "Package",
               "version": "[7.0.1, )"
             },
@@ -60,11 +60,15 @@
               "target": "Package",
               "version": "[7.0.1, )"
             },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.1, )"
+              "version": "[7.0.2, )"
             },
             "Microsoft.Extensions.Caching.SqlServer": {
               "target": "Package",
@@ -73,14 +77,6 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.0, )"
-            },
-            "MySql.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[7.0.0, )"
-            },
-            "Npgsql": {
-              "target": "Package",
-              "version": "[7.0.1, )"
             }
           },
           "imports": [
@@ -143,9 +139,21 @@
               "target": "Package",
               "version": "[2.2.0, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.2, )"
             },
             "Microsoft.Extensions.Identity.Stores": {
               "target": "Package",
@@ -154,14 +162,6 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.0, )"
-            },
-            "MySql.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[7.0.0, )"
-            },
-            "Npgsql": {
-              "target": "Package",
-              "version": "[7.0.1, )"
             }
           },
           "imports": [
