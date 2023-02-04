@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VHjRHNi2+WrezK1qLKIj5eSDzJ9eDKaD0DghdJmzrcUBD67okxCVH8L+fkQqeC8iQO6FVjWVNri+Wnp1/s+fyQ==",
+  "dgSpecHash": "OjSii6RoRTs+cw2sXxckjSLD8lNO921U/x7PRW4rVdJIbh5LpIMPVGqOjHWVnpPMobMXaEzHRtQZBiXh3l9s8Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\E-Commerce.csproj",
   "expectedPackageFiles": [
@@ -158,6 +158,7 @@
     "C:\\Users\\OTHER\\.nuget\\packages\\sqlitepclraw.core\\2.1.2\\sqlitepclraw.core.2.1.2.nupkg.sha512",
     "C:\\Users\\OTHER\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.2\\sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",
     "C:\\Users\\OTHER\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.2\\sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\OTHER\\.nuget\\packages\\stripe.net\\41.6.0\\stripe.net.41.6.0.nupkg.sha512",
     "C:\\Users\\OTHER\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\OTHER\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\OTHER\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",

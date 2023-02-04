@@ -1,6 +1,7 @@
 ﻿@model E_Commerce.Models.ViewModels.ShoppingCartVM
 @using Microsoft.Extensions.Options
-
+@using Microsoft.Extensions.Options
+@inject IOptions<E_Commerce.Utility.StripeSettings> Stripe
 
 <form method="post">
 	<br />

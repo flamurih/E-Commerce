@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Identity.UI.Services;
 using E_Commerce.Utility;
 using E_Commerce.Models;
 using Microsoft.Data.Sqlite;
+using Stripe;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -23,6 +24,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseMySql(
     connectionString, ServerVersion.AutoDetect(connectionString)
 	));
 
+builder.Services.Configure<StripeSettings>(builder.Configuration.GetSection("StripeSettings"));
 
 builder.Services.AddIdentity<IdentityUser, IdentityRole>()
     .AddDefaultTokenProviders()
@@ -54,6 +56,8 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+
+StripeConfiguration.ApiKey = builder.Configuration.GetSection("StripeSettings:SecretKey").Get<string>();
 app.UseAuthentication();
 
 app.UseAuthorization();

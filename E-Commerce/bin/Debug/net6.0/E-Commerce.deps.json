@@ -19,6 +19,7 @@
           "Microsoft.EntityFrameworkCore.Tools": "7.0.2",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.0",
           "Pomelo.EntityFrameworkCore.MySql": "7.0.0",
+          "Stripe.net": "41.6.0",
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "runtime": {
@@ -2209,6 +2210,18 @@
           }
         }
       },
+      "Stripe.net/41.6.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1",
+          "System.Configuration.ConfigurationManager": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Stripe.net.dll": {
+            "assemblyVersion": "41.6.0.0",
+            "fileVersion": "41.6.0.0"
+          }
+        }
+      },
       "Swashbuckle.AspNetCore/6.4.0": {
         "dependencies": {
           "Microsoft.Extensions.ApiDescription.Server": "6.0.5",
@@ -4207,6 +4220,13 @@
       "sha512": "sha512-lxCZarZdvAsMl2zw9bXHrXK6RxVhB4b23iTFhCOdHFhxfbsxLxWf+ocvswJwR/9Wh/E//ddMi+wJGqUKV7VwoA==",
       "path": "sqlitepclraw.provider.e_sqlite3/2.1.2",
       "hashPath": "sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512"
+    },
+    "Stripe.net/41.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ecYpgJajdoZxHoHxmzqCdkMe10N4uuHb5kVImHpdCcpvpgjs8pfm0X9p16alVebQpOClfF1/0FfiFdsdlk0Mfg==",
+      "path": "stripe.net/41.6.0",
+      "hashPath": "stripe.net.41.6.0.nupkg.sha512"
     },
     "Swashbuckle.AspNetCore/6.4.0": {
       "type": "package",
