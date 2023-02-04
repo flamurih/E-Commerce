@@ -1,279 +1,279 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\E-Commerce.bundle.scp.css",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\E-Commerce.bundle.scp.css",
       "PackagePath": "staticwebassets\\E-Commerce.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\css\\bootswatchTheme.css",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\css\\bootswatchTheme.css",
       "PackagePath": "staticwebassets\\css\\bootswatchTheme.css"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\images\\products\\03b10ebb-80ef-4e18-9461-ffa8b052c732.jpg",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\images\\products\\03b10ebb-80ef-4e18-9461-ffa8b052c732.jpg",
       "PackagePath": "staticwebassets\\images\\products\\03b10ebb-80ef-4e18-9461-ffa8b052c732.jpg"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\images\\products\\040cfd8c-8eab-4085-b920-e5a9c3cc1843.jpg",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\images\\products\\040cfd8c-8eab-4085-b920-e5a9c3cc1843.jpg",
       "PackagePath": "staticwebassets\\images\\products\\040cfd8c-8eab-4085-b920-e5a9c3cc1843.jpg"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\images\\products\\4e004c59-cfd3-4015-ab97-bf61cdd6df52.jpg",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\images\\products\\4e004c59-cfd3-4015-ab97-bf61cdd6df52.jpg",
       "PackagePath": "staticwebassets\\images\\products\\4e004c59-cfd3-4015-ab97-bf61cdd6df52.jpg"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\images\\products\\bd548a56-4ead-4904-9fad-2e10eccb92d4.jpg",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\images\\products\\bd548a56-4ead-4904-9fad-2e10eccb92d4.jpg",
       "PackagePath": "staticwebassets\\images\\products\\bd548a56-4ead-4904-9fad-2e10eccb92d4.jpg"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\images\\products\\d8b49746-2160-40e6-9403-6203664727a0.png",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\images\\products\\d8b49746-2160-40e6-9403-6203664727a0.png",
       "PackagePath": "staticwebassets\\images\\products\\d8b49746-2160-40e6-9403-6203664727a0.png"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\images\\products\\ff00a208-4dd3-4b6a-ae16-52ce79f55706.jpg",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\images\\products\\ff00a208-4dd3-4b6a-ae16-52ce79f55706.jpg",
       "PackagePath": "staticwebassets\\images\\products\\ff00a208-4dd3-4b6a-ae16-52ce79f55706.jpg"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\js\\product.js",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

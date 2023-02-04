@@ -12470,19 +12470,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\muli9\\.nuget\\packages\\": {}
+    "C:\\Users\\OTHER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce.DataAccess\\E-Commerce.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce.DataAccess\\E-Commerce.DataAccess.csproj",
       "projectName": "E-Commerce.DataAccess",
-      "projectPath": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce.DataAccess\\E-Commerce.DataAccess.csproj",
-      "packagesPath": "C:\\Users\\muli9\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce.DataAccess\\obj\\",
+      "projectPath": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce.DataAccess\\E-Commerce.DataAccess.csproj",
+      "packagesPath": "C:\\Users\\OTHER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\muli9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\OTHER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12496,8 +12496,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce.Models\\E-Commerce.Models.csproj": {
-              "projectPath": "C:\\Users\\muli9\\OneDrive\\Desktop\\E-Commerce\\E-Commerce.Models\\E-Commerce.Models.csproj"
+            "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce.Models\\E-Commerce.Models.csproj": {
+              "projectPath": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce.Models\\E-Commerce.Models.csproj"
             }
           }
         }
