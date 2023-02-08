@@ -1,16 +1,41 @@
 ﻿@model IEnumerable<E_Commerce.Models.Product>
+<div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active" data-bs-interval="10000">
+                    <img src="/images/Home/1.jpg" class="d-block w-100" alt="carousel" style="height:90vh">
+    </div>
+    <div class="carousel-item" data-bs-interval="2000">
+                    <img src="/images/Home/2.jpg" class="d-block w-100" alt="carousel" style="height:90vh">
+    </div>
+    <div class="carousel-item">
+                    <img src="/images/Home/3.jpg" class="d-block w-100" alt="carousel" style="height:90vh">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
 
-<div class="row pb-3">
-    @foreach(var product in Model)
+<div class="container">
+    <div class="row pb-3">
+    @foreach (var product in Model)
     {
-        <div class="card p-3 m-3" style="width: 18rem;">
-            <img class="card-img-top" height="320" src="@product.ImageUrl" alt="Card image cap">
-            <div class="card-body px-2">
-                <h5 class=" card-title">@product.Name</h5>
-                <div class="p-lg-1"><strong>&euro; @product.Price</strong></div>
-                <a class="btn btn-outline-info m-0" asp-action="Details" asp-route-productId="@product.Id">Product details</a>
-                <button type="submit" value="Add to Cart" class="btn btn-primary m-0">Add to Cart</button>
-            </div>
-         </div>
+            <div class="card p-3 m-3" style="width: 18rem;">
+                <img class="card-img-top" height="320" src="@product.ImageUrl" alt="Card image cap">
+                <div class="card-body px-2">
+                    <h5 class=" card-title">@product.Name</h5>
+                    <div class="p-lg-1"><strong>&euro; @product.Price</strong></div>
+                    <a class="btn btn-outline-info m-0" asp-action="Details" asp-route-productId="@product.Id">Product details</a>
+                    <button type="submit" value="Add to Cart" class="btn btn-primary m-0">Add to Cart</button>
+                </div>
+             </div>
     }
 </div>
+</div>
+
+

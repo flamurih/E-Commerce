@@ -24,7 +24,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseMySql(
     connectionString, ServerVersion.AutoDetect(connectionString)
 	));
 
-builder.Services.Configure<StripeSettings>(builder.Configuration.GetSection("StripeSettings"));
+builder.Services.Configure<StripeSettings>(builder.Configuration.GetSection("Stripe"));
 
 builder.Services.AddIdentity<IdentityUser, IdentityRole>()
     .AddDefaultTokenProviders()
@@ -57,7 +57,8 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
-StripeConfiguration.ApiKey = builder.Configuration.GetSection("StripeSettings:SecretKey").Get<string>();
+StripeConfiguration.ApiKey = builder.Configuration.GetSection("Stripe:SecretKey").Get<string>();
+
 app.UseAuthentication();
 
 app.UseAuthorization();

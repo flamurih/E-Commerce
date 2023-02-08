@@ -12305,19 +12305,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\OTHER\\.nuget\\packages\\": {}
+    "C:\\Users\\muli9\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce.Utility\\E-Commerce.Utility.csproj",
+      "projectUniqueName": "C:\\Users\\muli9\\OneDrive\\Desktop\\asfasfasf\\E-Commerce\\E-Commerce.Utility\\E-Commerce.Utility.csproj",
       "projectName": "E-Commerce.Utility",
-      "projectPath": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce.Utility\\E-Commerce.Utility.csproj",
-      "packagesPath": "C:\\Users\\OTHER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce.Utility\\obj\\",
+      "projectPath": "C:\\Users\\muli9\\OneDrive\\Desktop\\asfasfasf\\E-Commerce\\E-Commerce.Utility\\E-Commerce.Utility.csproj",
+      "packagesPath": "C:\\Users\\muli9\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\muli9\\OneDrive\\Desktop\\asfasfasf\\E-Commerce\\E-Commerce.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\OTHER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\muli9\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12331,8 +12331,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce.Models\\E-Commerce.Models.csproj": {
-              "projectPath": "C:\\Users\\OTHER\\OneDrive\\E-Commerce\\E-Commerce.Models\\E-Commerce.Models.csproj"
+            "C:\\Users\\muli9\\OneDrive\\Desktop\\asfasfasf\\E-Commerce\\E-Commerce.Models\\E-Commerce.Models.csproj": {
+              "projectPath": "C:\\Users\\muli9\\OneDrive\\Desktop\\asfasfasf\\E-Commerce\\E-Commerce.Models\\E-Commerce.Models.csproj"
             }
           }
         }
